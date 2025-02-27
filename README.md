@@ -1,7 +1,7 @@
 <h1 align="center">Oi👋, Eu sou a Isadora Poppi</h1>
 <h3 align="center">Apaixonada por ciência e análise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, Machine Learning, Proceessamento de linguagem natural, IA, Visualização de dados, R, Computação em nuvem**
+- 🌱 Atualmente estou aprendendo **Python, Machine Learning, Processamento de linguagem natural, IA, Visualização de dados, R, Computação em nuvem**
 
 - 💬 Me pergunte sobre **SQL, Python, Power BI, Excel, R, Machine Learning, IA**
 
